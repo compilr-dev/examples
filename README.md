@@ -25,8 +25,8 @@ cd examples
 # Install dependencies
 npm install
 
-# Set your API key
-export ANTHROPIC_API_KEY="your-key-here"
+# Set your API key (or use @compilr-dev/cli's /keys command)
+export ANTHROPIC_API_KEY="sk-ant-..."
 
 # Run an example
 npx ts-node basic-agent/index.ts
