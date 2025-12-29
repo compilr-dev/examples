@@ -1,5 +1,15 @@
 # @compilr-dev Examples
 
+```
+      \|/
+    ╭══════════╮     ___  ___  _ __ ___  _ __ (_) |_ __
+    ║'  ▐▌  ▐▌ │    / __|/ _ \| '_ ` _ \| '_ \| | | '__|
+    ║          │   | (__| (_) | | | | | | |_) | | | |
+    ╰─═──────═─╯    \___|\___/|_| |_| |_| .__/|_|_|_|
+      \________\                        | | .dev
+                                        |_| examples
+```
+
 > Example projects using the compilr.dev agent libraries
 
 This repository contains example projects demonstrating how to use [@compilr-dev/agents](https://www.npmjs.com/package/@compilr-dev/agents) and [@compilr-dev/agents-coding](https://www.npmjs.com/package/@compilr-dev/agents-coding).
