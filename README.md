@@ -12,6 +12,9 @@
 
 > Example projects using the compilr.dev agent libraries
 
+> [!WARNING]
+> These libraries are in beta. APIs may change between minor versions.
+
 This repository contains example projects demonstrating how to use [@compilr-dev/agents](https://www.npmjs.com/package/@compilr-dev/agents) and [@compilr-dev/agents-coding](https://www.npmjs.com/package/@compilr-dev/agents-coding).
 
 ## Examples
@@ -114,7 +117,7 @@ const agent = new Agent({
 
 ## Requirements
 
-- **Node.js** 18 or higher
+- **Node.js** 20 or higher
 - **API Key** for your chosen provider
 
 ## Related Packages
