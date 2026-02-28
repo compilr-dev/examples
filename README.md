@@ -134,7 +134,7 @@ const agent = new Agent({
 
 ## License
 
-MIT - See [LICENSE](LICENSE) for details.
+[FSL-1.1-MIT](https://fsl.software/) - See [LICENSE](LICENSE) for details. Converts to MIT after 2 years per version.
 
 ---
 
